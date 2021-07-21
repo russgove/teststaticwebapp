@@ -1,8 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import registerServiceWorker from "./serviceWorker";
-registerServiceWorker();
+
 function App() {
   return (
     <div className="App">
